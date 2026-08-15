@@ -1,16 +1,16 @@
-# UniBlog
+# EngSignal
 
 ## Engineering intelligence from the teams building the future
 
 The world's leading technology organizations publish valuable lessons every day: architecture decisions, production incidents, security practices, research breakthroughs, platform changes, and hard-won operating experience. That knowledge is scattered across hundreds of company publications and quickly disappears beneath general search results and noisy social feeds.
 
-**UniBlog turns that fragmented knowledge into one continuously updated, searchable, personalized engineering-intelligence experience.**
+**EngSignal turns that fragmented knowledge into one continuously updated, searchable, personalized engineering-intelligence experience.**
 
 It gives software professionals, technology leaders, researchers, investors, analysts, and developer-focused businesses a clearer view of what engineering teams are building, adopting, learning, and changing.
 
 ## Investment snapshot
 
-UniBlog brings together five valuable product categories in one focused experience:
+EngSignal brings together five valuable product categories in one focused experience:
 
 - A high-signal professional reader for engineering knowledge.
 - A personal research and knowledge-retention workspace.
@@ -34,7 +34,7 @@ Public engineering content contains unusually valuable signals. It shows what te
 - Investors and strategy teams need attributable evidence of technology adoption and organizational direction.
 - Publishers compete for discovery after investing heavily in high-quality technical content.
 
-UniBlog creates a focused home for this knowledge: a professional reader, a personal research workspace, and an engineering-market intelligence layer in one product.
+EngSignal creates a focused home for this knowledge: a professional reader, a personal research workspace, and an engineering-market intelligence layer in one product.
 
 ## Why this matters now
 
@@ -47,13 +47,13 @@ Several durable shifts make engineering intelligence increasingly valuable:
 - Technical buyers, investors, and vendors all need earlier signals of adoption and demand.
 - Distributed teams need persistent knowledge rather than temporary links and chat threads.
 
-UniBlog sits where professional productivity, technical media, market intelligence, continuing education, and source-grounded research meet.
+EngSignal sits where professional productivity, technical media, market intelligence, continuing education, and source-grounded research meet.
 
 ## The complete product experience
 
 ### Discover the signal
 
-UniBlog continuously organizes articles from **250 curated English-language engineering sources**. Readers can:
+EngSignal continuously organizes articles from **250 curated English-language engineering sources**. Readers can:
 
 - Browse the latest and trending engineering stories.
 - Search across the complete article catalog.
@@ -65,7 +65,7 @@ UniBlog continuously organizes articles from **250 curated English-language engi
 
 ### Understand what matters
 
-UniBlog helps readers move from links to useful understanding:
+EngSignal helps readers move from links to useful understanding:
 
 - Concise summaries explain the subject and why it matters.
 - Technical takeaways surface the most useful ideas from each article.
@@ -101,7 +101,7 @@ Readers are not locked into a single interface:
 
 ### Participate in a trusted publishing ecosystem
 
-UniBlog is designed to respect both readers and publishers:
+EngSignal is designed to respect both readers and publishers:
 
 - Every indexed item identifies its publisher and links to the original source.
 - Readers can suggest a new engineering publication or request an update.
@@ -124,7 +124,7 @@ UniBlog is designed to respect both readers and publishers:
 
 ## The experience transformation
 
-| Before UniBlog | After UniBlog |
+| Before EngSignal | After EngSignal |
 |---|---|
 | Check many individual engineering publications | Follow the relevant companies and topics in one focused experience |
 | Depend on noisy social feeds and inconsistent recommendations | Receive a high-signal stream shaped by technical relevance and personal interests |
@@ -136,11 +136,11 @@ UniBlog is designed to respect both readers and publishers:
 | Read without seeing progress or patterns | Understand reading habits, streaks, favorite topics, and knowledge growth |
 | Treat engineering publications as isolated posts | See a connected picture of companies, technologies, practices, and change |
 
-UniBlog reduces the effort between discovering a useful idea and applying it. The experience becomes calmer, faster, more organized, and easier to revisit.
+EngSignal reduces the effort between discovering a useful idea and applying it. The experience becomes calmer, faster, more organized, and easier to revisit.
 
 ## The market opportunity
 
-UniBlog addresses overlapping demand across several established spending categories:
+EngSignal addresses overlapping demand across several established spending categories:
 
 - **Professional information services** — individuals pay for trusted information that saves time and improves decisions.
 - **Research and market intelligence** — organizations pay for attributable evidence, comparison, monitoring, and recurring reports.
@@ -150,7 +150,7 @@ UniBlog addresses overlapping demand across several established spending categor
 - **Premium media and briefings** — audiences pay for curation, interpretation, and dependable delivery.
 - **Data licensing** — businesses license normalized information and trend signals when rebuilding the underlying collection would be slower or more expensive.
 
-The opportunity is broader than an engineering-news destination. UniBlog can serve any customer who benefits from understanding what technology organizations are publishing and what those publications reveal.
+The opportunity is broader than an engineering-news destination. EngSignal can serve any customer who benefits from understanding what technology organizations are publishing and what those publications reveal.
 
 ## Commercial scope
 
@@ -180,7 +180,7 @@ Professional networks, technical media, learning products, developer platforms, 
 
 ## Monetization opportunity
 
-UniBlog supports a diversified revenue portfolio rather than depending on one buyer or one payment model.
+EngSignal supports a diversified revenue portfolio rather than depending on one buyer or one payment model.
 
 | Revenue path | Who pays | What they pay for | Revenue character |
 |---|---|---|---|
@@ -209,9 +209,9 @@ The product supports a natural progression from audience growth to higher-value 
 
 This creates multiple expansion levers: more readers, higher professional conversion, organization adoption, premium research, wider coverage, and licensing.
 
-## Why UniBlog is different
+## Why EngSignal is different
 
-| General alternatives | UniBlog |
+| General alternatives | EngSignal |
 |---|---|
 | Search answers one query at a time | Maintains a continuously refreshed engineering knowledge base |
 | Social feeds optimize for engagement | Prioritizes technical relevance, source quality, and learning |
@@ -222,7 +222,7 @@ This creates multiple expansion levers: more readers, higher professional conver
 
 ## A compounding advantage
 
-UniBlog becomes more valuable as its knowledge base and audience grow:
+EngSignal becomes more valuable as its knowledge base and audience grow:
 
 - Every curated source expands coverage and strengthens topic comparisons.
 - Historical publishing patterns make technology momentum easier to recognize.
@@ -235,7 +235,7 @@ The advantage is not any single summary or search result. It is the continuously
 
 ## Business benefits and value creation
 
-UniBlog can create measurable customer value in several ways:
+EngSignal can create measurable customer value in several ways:
 
 - **Time efficiency** — replaces repetitive searching, checking, sorting, and manual monitoring.
 - **Decision confidence** — keeps conclusions connected to attributable source material.
@@ -250,7 +250,7 @@ These benefits support both self-serve professional adoption and high-value busi
 
 ## Growth engine
 
-UniBlog can grow through useful public intelligence rather than depending entirely on paid acquisition:
+EngSignal can grow through useful public intelligence rather than depending entirely on paid acquisition:
 
 - Publish recurring reports on engineering publishing and technology adoption.
 - Turn company pages, topic pages, comparisons, and the Engineering Radar into high-intent discovery surfaces.
@@ -301,7 +301,7 @@ Capital is directed toward market reach, proprietary intelligence, trusted opera
 
 ## Why this is investable
 
-UniBlog offers an investor a combination of product completeness and commercial optionality:
+EngSignal offers an investor a combination of product completeness and commercial optionality:
 
 - A clear problem experienced by professionals and organizations.
 - A complete, differentiated product with repeat-use workflows.
@@ -316,7 +316,7 @@ The investment case is not limited to a reader application. It includes the audi
 
 ## Strategic fit
 
-UniBlog is relevant to:
+EngSignal is relevant to:
 
 - Developer tooling, cloud, data, cybersecurity, and observability companies.
 - Professional networks, technical media, and engineering communities.
@@ -340,4 +340,4 @@ Conversations are welcome around:
 
 ---
 
-Copyright 2026 UniBlog contributors. Licensed under the [Apache License 2.0](LICENSE).
+Copyright 2026 EngSignal contributors. Licensed under the [Apache License 2.0](LICENSE).

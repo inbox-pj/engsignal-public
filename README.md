@@ -18,7 +18,7 @@ EngSignal brings together five valuable product categories in one focused experi
 - A technology-momentum and company-comparison platform.
 - A growing commercial intelligence asset built from attributable public evidence.
 
-The product already covers discovery, search, personalization, research, reading workflows, briefings, trend signals, source operations, publisher participation, premium sponsorships, and user account control across **250 curated English-language engineering sources**.
+The product already covers discovery, search, personalization, research, reading workflows, briefings, trend signals, source operations, publisher participation, premium sponsorships, and user account control across engineering publications from **250 of the world's leading technology companies—and the catalog keeps growing through reviewed requests for additional companies**.
 
 This creates multiple paths to recurring subscription revenue, organization-level contracts, premium research, data licensing, strategic distribution, and acquisition value.
 
@@ -53,7 +53,7 @@ EngSignal sits where professional productivity, technical media, market intellig
 
 ### Discover the signal
 
-EngSignal continuously organizes articles from **250 curated English-language engineering sources**. Readers can:
+EngSignal comes with engineering intelligence from **250 of the world's leading technology companies—and keeps growing as people and companies request additional companies for review**. Readers can:
 
 - Browse the latest and trending engineering stories.
 - Search across the complete article catalog.
@@ -104,7 +104,7 @@ Readers are not locked into a single interface:
 EngSignal is designed to respect both readers and publishers:
 
 - Every indexed item identifies its publisher and links to the original source.
-- Readers can suggest a new engineering publication or request an update.
+- Readers, engineering teams, and companies can request another company be added or ask for an existing publication to be updated.
 - Publishers, authors, and rights holders can request corrections, licensing review, source opt-out, or removal.
 - Requests receive a reference, a visible review state, and a recorded resolution.
 - Editorial insight pages require human review before publication.
@@ -242,7 +242,7 @@ This creates multiple expansion levers: more readers, higher professional conver
 
 EngSignal becomes more valuable as its knowledge base and audience grow:
 
-- Every curated source expands coverage and strengthens topic comparisons.
+- Every approved company expands coverage and strengthens topic comparisons.
 - Historical publishing patterns make technology momentum easier to recognize.
 - Reader follows, saves, searches, and feedback improve relevance.
 - Publisher relationships and transparent attribution strengthen trust.
@@ -279,7 +279,7 @@ EngSignal can grow through useful public intelligence rather than depending enti
 - Develop a selective portfolio of high-quality contextual sponsors whose products genuinely serve engineering audiences.
 - Convert individual professional usage into organization-level intelligence relationships.
 
-Each new source improves coverage, each public report creates distribution, and each active reader strengthens relevance.
+Each newly added company improves coverage, each public report creates distribution, and each active reader strengthens relevance.
 
 ## Expansion scope
 

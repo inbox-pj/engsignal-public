@@ -1,214 +1,199 @@
 # UniBlog
 
-## The intelligence layer for how the world's best engineering teams build
+## Engineering intelligence from the teams building the future
 
-Engineering knowledge is published every day across company blogs, research journals, architecture posts, security
-advisories, and technical white papers. The signal is valuable, but fragmented across hundreds of websites and buried
-under general-purpose search and social feeds.
+The world's leading technology organizations publish valuable lessons every day: architecture decisions, production incidents, security practices, research breakthroughs, platform changes, and hard-won operating experience. That knowledge is scattered across hundreds of company publications and quickly disappears beneath general search results and noisy social feeds.
 
-**UniBlog turns that fragmented public knowledge into a searchable, personalized, and continuously updated engineering
-intelligence platform.**
+**UniBlog turns that fragmented knowledge into one continuously updated, searchable, personalized engineering-intelligence experience.**
 
-It is designed for software engineers, technology leaders, researchers, investors, analysts, and vendors who need to
-understand what leading technology organizations are building—and why it matters.
-
-> Current stage: working, production-oriented MVP seeking strategic investment, commercialization partners, or an
-> acquisition conversation. No revenue or user-traction claims are implied by this document.
+It gives software professionals, technology leaders, researchers, investors, analysts, and developer-focused businesses a clearer view of what engineering teams are building, adopting, learning, and changing.
 
 ## The opportunity
 
-The world's engineering organizations already publish a high-value stream of technical information. Today, extracting
-useful intelligence from it remains mostly manual:
+Public engineering content contains high-value signals, but discovering and using those signals still requires significant manual work:
 
-- Engineers repeatedly visit individual blogs or depend on noisy social feeds.
-- Technology leaders struggle to compare architecture and adoption signals across companies.
-- Developer-tool companies lack a reliable view of emerging technical demand.
-- Investors and analysts spend time assembling evidence about engineering direction and technology adoption.
-- Internal research is difficult to preserve, share, cite, and revisit.
+- Engineers repeatedly visit individual company blogs or rely on inconsistent social recommendations.
+- Technology leaders struggle to compare how different organizations approach the same challenge.
+- Researchers and analysts spend hours collecting evidence that is difficult to preserve and revisit.
+- Developer-focused companies lack a dependable view of emerging technical interests and pain points.
+- Investors and strategy teams need attributable evidence of technology adoption and organizational direction.
 
-UniBlog can become the system of record for this public engineering knowledge: part professional reader, part research
-workspace, and part technology-market intelligence platform.
+UniBlog creates a focused home for this knowledge: a professional reader, a personal research workspace, and an engineering-market intelligence layer in one product.
 
-## What is already built
+## The product experience
 
-UniBlog is more than a landing page or concept prototype. The current product includes:
+### Discover the signal
 
-- Continuous discovery from a curated catalog of **250 English-language engineering sources**.
-- RSS, Atom, HTML, and WebSub ingestion with conditional requests and adaptive polling.
-- Full-text search, trending stories, company and topic pages, curated collections, comparisons, and engineering radar.
-- Publisher-attributed article insight pages with canonical metadata and original-source links.
-- Personal follows, bookmarks, reading history, notes, saved searches, reading goals, and private RSS feeds.
-- Daily and weekly engineering email digests with timezone-aware delivery and unsubscribe handling.
-- Optional AI summaries, technical takeaways, embeddings, semantic search, learning paths, and cited research synthesis.
-- A fully functional deterministic mode when AI is disabled or unavailable.
-- Administrative source health, ingestion history, queue visibility, indexing status, and retry operations.
-- OpenTelemetry metrics, logs, traces, health probes, structured logging, and Grafana-compatible observability.
-- Security controls for authentication, authorization, CSRF, SSRF, rate limiting, bounded downloads, and content removal.
-- Responsive server-rendered pages, sitemap segmentation, structured data, canonical URLs, and index-bloat controls.
+UniBlog continuously organizes articles from **250 curated English-language engineering sources**. Readers can:
 
-The latest local acceptance snapshot processed all 250 configured sources successfully with no latest HTTP 40x or
-ingestion errors. The clean automated reactor currently contains **77 passing tests** across core, migration, web,
-worker, and architecture modules. These are engineering validation results—not claims of market traction or guaranteed
-future availability.
+- Browse the latest and trending engineering stories.
+- Search across the complete article catalog.
+- Explore dedicated company and technology-topic pages.
+- Follow timely collections such as architecture decisions, AI systems, and data platforms.
+- Compare how multiple engineering organizations approach the same topic.
+- Use the Engineering Radar to see which technologies are gaining or losing attention.
+- Find related reading without returning to broad web search.
 
-## Product experience
+### Understand what matters
 
-### For individual professionals
+UniBlog helps readers move from links to useful understanding:
 
-Users get a calm, personalized stream of engineering knowledge instead of another engagement-optimized social feed.
-They can follow companies and topics, save articles, add private notes, receive scheduled digests, export feeds, and
-track their learning over time.
+- Concise summaries explain the subject and why it matters.
+- Technical takeaways surface the most useful ideas from each article.
+- Publisher-attributed insight pages retain a direct path to the original work.
+- Source-grounded questions return research briefs with supporting articles.
+- Topic deep dives organize reading from foundational material through advanced practice.
+- Curated comparisons reveal patterns and differences across companies.
 
-### For technology teams
+### Build a personal intelligence workspace
 
-The platform can evolve into a shared engineering-intelligence workspace: collaborative watchlists, research
-collections, annotations, weekly reports, private sources, exports, and evidence-backed architecture research.
+Every signed-in reader gets a workspace shaped by their interests and behavior:
 
-### For market intelligence
+- Follow companies and technology topics.
+- Receive a personalized feed and recommendations.
+- Bookmark articles, add private notes, and maintain reading history.
+- Save searches for recurring research.
+- Hide irrelevant stories and give preference feedback.
+- Set a weekly reading goal and track progress.
+- Review weekly reading statistics, streaks, favorite topics, and top sources.
+- Share a polished Weekly Wrapped card.
+- Receive live in-product notifications.
 
-UniBlog's normalized corpus can power technology-adoption timelines, company comparisons, ecosystem maps, engineering
-hiring and investment signals, and category-level trend reports—all grounded in attributable public sources.
+### Choose how the knowledge arrives
 
-## Why UniBlog is differentiated
+Readers are not locked into a single interface:
+
+- Daily or weekly email briefings reflect followed companies and topics.
+- Delivery time follows each reader's timezone and preferred hour.
+- Voice Digest turns the week's followed stories into a listenable briefing.
+- Company, topic, and personal RSS feeds support existing reading habits.
+- OPML import and export make subscriptions portable.
+- Readers can export their account data, change email preferences, rotate private feed access, or delete their account.
+
+### Participate in a trusted publishing ecosystem
+
+UniBlog is designed to respect both readers and publishers:
+
+- Every indexed item identifies its publisher and links to the original source.
+- Readers can suggest a new engineering publication or request an update.
+- Publishers, authors, and rights holders can request corrections, licensing review, source opt-out, or removal.
+- Requests receive a reference, a visible review state, and a recorded resolution.
+- Editorial insight pages require human review before publication.
+- Source quality and publishing health are actively monitored and managed.
+
+## Who UniBlog serves
+
+### Software professionals
+
+A calm, high-signal reading experience for discovering practices, saving knowledge, and developing expertise without an engagement-driven feed.
+
+### Engineering leaders
+
+A cross-company view of architecture choices, operational lessons, security practices, platform direction, and technology momentum.
+
+### Researchers, analysts, and investors
+
+An attributable body of engineering evidence for tracking adoption, comparing organizations, and understanding where technical attention is moving.
+
+### Developer-focused businesses
+
+A clearer view of emerging needs, technology categories, ecosystem movement, and the subjects that matter to engineering audiences.
+
+## Why UniBlog is different
 
 | General alternatives | UniBlog |
 |---|---|
-| Search returns pages for one query | Builds a continuously refreshed engineering corpus |
-| Social feeds optimize for engagement | Optimizes for technical relevance and learning |
-| RSS readers organize subscriptions | Normalizes, classifies, compares, and researches across sources |
-| Generic AI can produce unsupported answers | Research is source-grounded and citation-oriented |
-| AI-first tools fail when a model is unavailable | Core discovery and personalization continue without AI |
-| Market databases focus on financial/company metadata | Focuses on evidence published by engineering organizations |
+| Search answers one query at a time | Maintains a continuously refreshed engineering knowledge base |
+| Social feeds optimize for engagement | Prioritizes technical relevance, source quality, and learning |
+| Traditional feed readers organize subscriptions | Connects discovery, comparison, research, and personalization |
+| Generic assistants may answer without dependable evidence | Grounds research in attributable engineering publications |
+| Market databases focus on financial and company metadata | Surfaces evidence published by the engineering organizations themselves |
+| Personal reading tools stop at saving links | Builds a lasting workspace of follows, notes, history, goals, and insights |
 
-The product's defensibility can compound through source-quality operations, historical normalized data, technology
-taxonomies, user intent signals, proprietary rankings, research workflows, and trusted distribution—not merely through
-access to a language model.
+## A compounding advantage
 
-## A capital-efficient architecture
+UniBlog becomes more valuable as its knowledge base and audience grow:
 
-UniBlog is intentionally designed to grow without beginning as an expensive distributed system.
+- Every curated source expands coverage and strengthens topic comparisons.
+- Historical publishing patterns make technology momentum easier to recognize.
+- Reader follows, saves, searches, and feedback improve relevance.
+- Publisher relationships and transparent attribution strengthen trust.
+- Original research and public topic pages create recurring discovery and distribution.
+- The combined source catalog, taxonomy, reading signals, and editorial judgment form a durable intelligence asset.
 
-```mermaid
-flowchart LR
-    P[Engineering publishers] --> W[Durable ingestion worker]
-    W --> D[(PostgreSQL + pgvector)]
-    D --> A[Web, search, feeds, and APIs]
-    D --> R[Research and intelligence]
-    A --> U[Readers and teams]
-    R --> U
-    M[Optional AI providers] -. enrichment with fallback .-> W
-    M -. cited synthesis with fallback .-> R
-```
+The advantage is not any single summary or search result. It is the continuously organized relationship between engineering sources, topics, companies, evidence, and reader intent.
 
-The modular Java platform produces separate web, worker, and one-shot migration artifacts. PostgreSQL holds content,
-jobs, delivery state, search indexes, and vectors transactionally. This reduces infrastructure sprawl while preserving
-clear paths to independent scaling.
-
-Core technologies include Java 25 virtual threads, Spring Boot 4, Spring Modulith, PostgreSQL 17, pgvector, Flyway,
-OpenTelemetry, Testcontainers, and standards-based SMTP.
-
-## Business model
+## Commercial model
 
 UniBlog supports several complementary revenue paths:
 
-1. **Professional subscriptions** — advanced watchlists, saved research, custom digests, exports, semantic discovery,
-   and AI-assisted analysis.
-2. **Team workspaces** — shared collections, notes, reports, permissions, private sources, and collaboration.
-3. **Enterprise intelligence** — SSO, audit controls, internal-source connectors, custom taxonomies, retention policies,
-   and dedicated deployments.
-4. **Data and API products** — technology-adoption signals, normalized metadata, trend indexes, and licensed datasets.
-5. **Sponsored research** — clearly disclosed ecosystem reports and category intelligence without compromising ranking
-   independence.
-6. **Strategic licensing or acquisition** — integration into developer platforms, research products, professional
-   networks, observability vendors, technical publishers, or market-intelligence businesses.
+- **Professional membership** for advanced personal research, intelligence briefings, saved knowledge, and premium discovery.
+- **Organization plans** for shared intelligence, curated monitoring, research workflows, and recurring reports.
+- **Enterprise intelligence** for specialized coverage, governance, private knowledge sources, and organization-specific taxonomies.
+- **Data and insight products** based on technology momentum, normalized public metadata, category research, and licensed datasets.
+- **Sponsored research** that is clearly disclosed and kept separate from editorial ranking.
+- **Strategic licensing** for developer platforms, professional networks, technical publishers, learning products, and market-intelligence businesses.
 
-Illustrative validation ranges—not current pricing—are $10–15/month for an individual professional plan,
-$20–30/user/month for team intelligence, and negotiated annual enterprise or data contracts.
+This model combines recurring reader revenue with higher-value organizational, research, and data opportunities.
 
-## Go-to-market thesis
+## Growth engine
 
-The initial growth loop can be built around valuable public assets rather than paid acquisition:
+UniBlog can grow through useful public intelligence rather than depending entirely on paid acquisition:
 
-- Publish a recurring **State of Engineering Blogs** report.
-- Release technology-adoption dashboards and embeddable engineering radars.
-- Create high-intent company and topic research pages backed by original analysis.
-- Build newsletter partnerships with engineering communities and technical podcasts.
-- Offer a useful public API, selected open datasets, and developer integrations.
-- Convert individual readers into team workspaces through shared research and weekly reports.
+- Publish recurring reports on engineering publishing and technology adoption.
+- Turn company pages, topic pages, comparisons, and the Engineering Radar into high-intent discovery surfaces.
+- Partner with engineering communities, newsletters, podcasts, and technical events.
+- Create shareable reading insights and benchmark reports.
+- Convert individual professional usage into organizational intelligence relationships.
 
-Every original report can attract backlinks and subscribers; every new reader improves topic and source relevance; every
-new source expands the research corpus. This creates a content, data, and distribution flywheel.
+Each new source improves coverage, each public report creates distribution, and each active reader strengthens relevance.
 
-## Near-term commercialization roadmap
+## Production launch focus
 
-### Phase 1 — Launch and validate
+The complete product experience is in place. Public production launch depends on three essential operating steps:
 
-- Establish reliable managed hosting and a public domain.
-- Recruit design partners among engineering leaders, analysts, and developer-tool companies.
-- Measure activation, weekly retention, digest engagement, search success, and willingness to pay.
-- Publish original benchmark reports that demonstrate the value of the corpus.
+1. **Public service presence** — establish the branded domain, clear support ownership, and published service commitments.
+2. **Commercial and rights operations** — finalize customer terms, privacy disclosures, publisher licensing procedures, and accountable review ownership.
+3. **Customer operations** — activate pricing, onboarding, billing, support, and launch measurement for professional and organizational users.
 
-### Phase 2 — Monetize professionals and teams
-
-- Introduce billing, entitlements, usage limits, invoices, and subscription lifecycle management.
-- Add team workspaces, shared research, watchlists, alerts, and scheduled intelligence reports.
-- Support private RSS, internal engineering blogs, Markdown/PDF exports, and browser capture.
-
-### Phase 3 — Build the intelligence network
-
-- Launch company and technology adoption dashboards with transparent evidence.
-- Offer enterprise governance, API access, dataset licensing, and private deployments.
-- Expand taxonomies and coverage while maintaining strict language, quality, attribution, and licensing policies.
+These are launch and operating requirements, not missing core product experiences.
 
 ## What investment accelerates
 
-Funding would primarily accelerate:
+Investment expands the reach and commercial value of an already complete product:
 
-- Product design and customer discovery with professional and enterprise users.
-- Managed production infrastructure, security operations, backups, and reliability engineering.
-- Editorial research and proprietary benchmark datasets.
-- Team collaboration, billing, enterprise identity, integrations, and API commercialization.
-- Distribution through reports, partnerships, developer relations, and targeted sales.
-- Legal, licensing, privacy, and publisher-relationship operations at commercial scale.
+- Broader source coverage and stronger editorial research.
+- Original benchmark reports and proprietary market intelligence.
+- Professional distribution, partnerships, community programs, and sales.
+- Organization-focused packaging and customer success.
+- Data products, licensed research, and strategic integrations.
+- Publisher relationships, licensing operations, and international expansion.
 
-The objective is not to spend heavily on undifferentiated model usage. AI is applied selectively, with token controls,
-circuit breakers, and non-AI fallbacks so unit economics remain governable.
+Capital is directed toward market reach, proprietary intelligence, trusted operations, and revenue growth.
 
 ## Strategic fit
 
-UniBlog may be especially relevant to:
+UniBlog is relevant to:
 
 - Developer tooling, cloud, data, cybersecurity, and observability companies.
-- Professional networks, technical media, and engineering-community platforms.
+- Professional networks, technical media, and engineering communities.
 - Research, competitive-intelligence, and technology-market-data businesses.
 - Venture funds and corporate strategy teams tracking technical adoption.
-- Learning platforms and enterprise knowledge-management vendors.
+- Learning platforms and enterprise knowledge companies.
 
-Potential transaction structures include seed or angel investment, a strategic development partnership, data
-licensing, commercial joint venture, IP and product acquisition, or acquisition of the project as a foundation for a
-larger engineering-intelligence offering.
-
-## Open source and commercial defensibility
-
-The current core is available under Apache License 2.0. An open core can accelerate trust, integrations, source
-contributions, and developer adoption. Commercial value can be built through the hosted network, continuously operated
-dataset, collaboration layer, proprietary rankings and reports, enterprise controls, integrations, support, and brand.
+Potential relationships include investment, commercial partnerships, distribution, data licensing, sponsored research, and strategic acquisition.
 
 ## Start a conversation
 
-If you are an investor, operator, potential acquirer, or design partner interested in building the leading engineering
-intelligence platform, contact the [project owner on GitHub](https://github.com/inbox-pj).
+If you are an investor, operator, strategic partner, or potential acquirer interested in the engineering-intelligence category, contact the [project owner on GitHub](https://github.com/inbox-pj).
 
-Useful conversations include:
+Conversations are welcome around:
 
-- Funding and company formation.
+- Investment and company formation.
 - Product or intellectual-property acquisition.
-- Strategic distribution and data partnerships.
-- Paid design partnerships and enterprise pilots.
-- Technical due diligence and product demonstrations.
-
-Detailed architecture, security controls, tests, deployment materials, and the working application can be made
-available for qualified diligence.
+- Distribution and data partnerships.
+- Enterprise adoption and commercial pilots.
+- Product demonstrations and due diligence.
 
 ---
 

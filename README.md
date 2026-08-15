@@ -18,7 +18,7 @@ EngSignal brings together five valuable product categories in one focused experi
 - A technology-momentum and company-comparison platform.
 - A growing commercial intelligence asset built from attributable public evidence.
 
-The product already covers discovery, search, personalization, research, reading workflows, briefings, trend signals, source operations, publisher participation, premium sponsorships, and user account control across engineering publications from **250 of the world's leading technology companies—and the catalog keeps growing through reviewed requests for additional companies**.
+The product already covers discovery, search, personalization, research, reading workflows, briefings, trend signals, source operations, reader-powered editorial participation, publisher participation, premium sponsorships, and user account control across engineering publications from **250 of the world's leading technology companies—and the catalog keeps growing through reviewed requests for additional companies**.
 
 This creates multiple paths to recurring subscription revenue, organization-level contracts, premium research, data licensing, strategic distribution, and acquisition value.
 
@@ -74,6 +74,20 @@ EngSignal helps readers move from links to useful understanding:
 - Topic deep dives organize reading from foundational material through advanced practice.
 - Curated comparisons reveal patterns and differences across companies.
 
+### Turn readers into trusted editorial participants
+
+EngSignal can invite its most engaged readers to help create useful context when an article does not yet have an editorial review:
+
+- A reader can contribute an original summary, explain why the article matters, and share practical technical takeaways.
+- Every contribution enters a dedicated **Readers Editorial Review** queue; it never appears publicly without administrator approval.
+- An administrator can decline the contribution, improve it through editing, or publish it as the visible review.
+- EngSignal maintains a separate **Editorial Review** path for reviews created directly by its editorial team.
+- When a reader has already contributed to an article that is also awaiting an editorial-team review, administrators see that participation immediately and can choose the strongest path forward.
+- Once either path produces an approved review, readers see that content and the alternative contribution request closes for that article.
+- Every published review continues to credit and link directly to the original company publication.
+
+This creates a valuable participation loop: readers move from consuming knowledge to improving discovery for the wider community, while EngSignal retains the quality control required for a trusted professional product. As the audience grows, participation can expand useful article coverage, deepen reader loyalty, identify expert contributors, and support community-led programs without weakening editorial standards.
+
 ### Build a personal intelligence workspace
 
 Every signed-in reader gets a workspace shaped by their interests and behavior:
@@ -108,6 +122,7 @@ EngSignal is designed to respect both readers and publishers:
 - Publishers, authors, and rights holders can request corrections, licensing review, source opt-out, or removal.
 - Requests receive a reference, a visible review state, and a recorded resolution.
 - Editorial insight pages require human review before publication.
+- Readers can contribute missing editorial context through a separately managed review queue, with administrators retaining the final decision to decline, edit, or publish.
 - Source quality and publishing health are actively monitored and managed.
 
 ### Partner with EngSignal
@@ -245,6 +260,7 @@ EngSignal becomes more valuable as its knowledge base and audience grow:
 - Every approved company expands coverage and strengthens topic comparisons.
 - Historical publishing patterns make technology momentum easier to recognize.
 - Reader follows, saves, searches, and feedback improve relevance.
+- Reader editorial participation expands coverage and turns audience growth into a stronger shared knowledge asset.
 - Publisher relationships and transparent attribution strengthen trust.
 - Original research and public topic pages create recurring discovery and distribution.
 - The combined source catalog, taxonomy, reading signals, and editorial judgment form a durable intelligence asset.

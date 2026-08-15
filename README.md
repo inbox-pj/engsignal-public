@@ -69,7 +69,9 @@ EngSignal helps readers move from links to useful understanding:
 
 - Concise summaries explain the subject and why it matters.
 - Technical takeaways surface the most useful ideas from each article.
-- Publisher-attributed insight pages retain a direct path to the original work.
+- **Why this matters** keeps published context attached to the original article, clearly distinguishes AI-assisted context from human editorial context, and always retains a direct path to the publisher.
+- **Focus** remains a separate personal reading workspace for distraction-free reading, private notes, highlights, and related discoveries.
+- When published context is unavailable, **Readers Editorial Review** becomes the contribution entry point rather than presenting unreviewed material as fact.
 - Source-grounded questions return research briefs with supporting articles.
 - Topic deep dives organize reading from foundational material through advanced practice.
 - Curated comparisons reveal patterns and differences across companies.
@@ -83,10 +85,27 @@ EngSignal can invite its most engaged readers to help create useful context when
 - An administrator can decline the contribution, improve it through editing, or publish it as the visible review.
 - EngSignal maintains a separate **Editorial Review** path for reviews created directly by its editorial team.
 - When a reader has already contributed to an article that is also awaiting an editorial-team review, administrators see that participation immediately and can choose the strongest path forward.
-- Once either path produces an approved review, readers see that content and the alternative contribution request closes for that article.
+- Multiple readers can contribute independent perspectives while context is missing. Editors can compare those perspectives, preserve attribution, and publish a coherent human-reviewed explanation on the original article rather than creating a disconnected destination.
+- Once either path produces approved context, it appears immediately through **Why this matters** and the article leaves both review queues.
 - Every published review continues to credit and link directly to the original company publication.
 
+The participation system is designed to reward trust and usefulness rather than volume:
+
+- Every contributor receives a private reference for status tracking and notifications when a contribution is edited, declined, or published.
+- Reputation reflects approval quality and reader helpfulness, while verified company engineers and recognized specialists can receive expert badges.
+- Help-review campaigns direct qualified attention to important publications missing context.
+- Originality, conflict-of-interest, and attribution checks protect publication quality.
+- Assignment and review locking prevent duplicated moderation work.
+- Coverage dashboards reveal missing context, approval rates, review time, returning contributors, and engagement gained after publication.
+- Published context can receive **Helpful** or **Needs clarification** feedback, creating an ongoing quality-improvement loop.
+
 This creates a valuable participation loop: readers move from consuming knowledge to improving discovery for the wider community, while EngSignal retains the quality control required for a trusted professional product. As the audience grows, participation can expand useful article coverage, deepen reader loyalty, identify expert contributors, and support community-led programs without weakening editorial standards.
+
+### Turn every article into a professional conversation
+
+Every article can also host an immediate reader conversation. Signed-in members, administrators, and guests can ask independent questions, answer others, reply in threads, or quote an earlier contribution. Logged-in participants use their chosen username; guests can provide a display name or participate as **Anonymous**. Posts appear immediately without an approval queue, with clear author and time context, while the editorial-review system remains reserved for curated, publishable article context.
+
+This adds a second participation loop: lightweight discussion creates daily engagement and peer learning, while reviewed editorial context preserves a dependable long-term knowledge layer. Together they can increase return visits, surface expert contributors, and reveal which publications and technical questions matter most to the audience.
 
 ### Build a personal intelligence workspace
 

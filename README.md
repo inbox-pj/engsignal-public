@@ -18,7 +18,7 @@ EngSignal brings together five valuable product categories in one focused experi
 - A technology-momentum and company-comparison platform.
 - A growing commercial intelligence asset built from attributable public evidence.
 
-The product already covers discovery, search, personalization, research, reading workflows, briefings, trend signals, source operations, publisher participation, and user account control across **250 curated English-language engineering sources**.
+The product already covers discovery, search, personalization, research, reading workflows, briefings, trend signals, source operations, publisher participation, premium sponsorships, and user account control across **250 curated English-language engineering sources**.
 
 This creates multiple paths to recurring subscription revenue, organization-level contracts, premium research, data licensing, strategic distribution, and acquisition value.
 
@@ -110,6 +110,23 @@ EngSignal is designed to respect both readers and publishers:
 - Editorial insight pages require human review before publication.
 - Source quality and publishing health are actively monitored and managed.
 
+### Partner with EngSignal
+
+EngSignal includes a complete, quality-controlled sponsorship experience designed for developer tools, cloud and infrastructure platforms, cybersecurity and observability providers, data and AI companies, engineering recruitment businesses, and technical-learning organizations.
+
+- A visible **Partner with us** invitation is available throughout the product.
+- Companies can submit their identity, website, work contact, category, and agreement to EngSignal's partnership principles.
+- Every request enters Source Studio for human review; submitting a request never publishes an advertisement automatically.
+- Administrators can approve or decline partners, review creative material, schedule campaigns, pause delivery, and disable sponsorship globally.
+- Campaigns can be aligned with relevant companies, engineering topics, locations, devices, dates, and carefully limited placements.
+- Premium placements are supported within discovery feeds, selected desktop contexts, and the Engineering Radar without taking over the reading experience.
+- Every placement is clearly identified as **Sponsored**, remains separate from editorial ranking, and preserves a direct path to the partner's approved destination.
+- Readers can hide a placement or report it for irrelevance, misleading claims, unsafe destinations, repetition, or other concerns.
+- Source Studio provides campaign activity, viewable-impression, sponsor-visit, creative-review, and reader-report visibility.
+- Ad-free access can be granted to eligible professional members without changing their editorial or personalization experience.
+
+This creates a premium commercial channel built around contextual relevance and professional trust rather than intrusive behavioral profiling. Partners reach a technically engaged audience, readers see fewer and more relevant promotions, and EngSignal gains recurring revenue without compromising product quality.
+
 ## Benefits by audience
 
 | Audience | Immediate benefit | Long-term value |
@@ -191,6 +208,7 @@ EngSignal supports a diversified revenue portfolio rather than depending on one 
 | Developer-market intelligence | Tooling and infrastructure vendors | Topic momentum, practitioner demand, category movement, and competitive evidence | Recurring intelligence contract |
 | Data and insight licensing | Research platforms, media, data businesses | Normalized public metadata, historical trends, taxonomies, and derived indicators | Annual license or usage-based agreement |
 | Sponsored research | Relevant ecosystem participants | Clearly disclosed category reports, surveys, and educational research | Campaign or annual partnership |
+| Premium contextual sponsorships | Developer tools, cloud, data, AI, security, hiring, and learning companies | Clearly labelled placements aligned with relevant engineering companies, topics, and professional interests | Direct campaign or recurring partnership |
 | Distribution and syndication | Publishers, communities, learning platforms | Curated feeds, topic experiences, intelligence modules, and branded discovery | Licensing or revenue share |
 | Strategic licensing or acquisition | Larger platforms and information businesses | Product, brand, organized corpus, workflows, audience potential, and category position | License, partnership, or transaction value |
 
@@ -245,6 +263,7 @@ EngSignal can create measurable customer value in several ways:
 - **Continuous learning** — creates a repeatable habit through goals, digests, deep dives, and progress insights.
 - **Qualified discovery** — sends interested readers back to original publisher content.
 - **Commercial intelligence** — turns public engineering activity into insight for market development and strategy.
+- **Trusted partner access** — gives relevant engineering businesses a respectful way to reach professionals without imitating editorial content or interrupting core workflows.
 
 These benefits support both self-serve professional adoption and high-value business purchasing.
 
@@ -257,6 +276,7 @@ EngSignal can grow through useful public intelligence rather than depending enti
 - Partner with engineering communities, newsletters, podcasts, and technical events.
 - Create shareable reading insights and benchmark reports.
 - Build publisher relationships that improve coverage and distribution.
+- Develop a selective portfolio of high-quality contextual sponsors whose products genuinely serve engineering audiences.
 - Convert individual professional usage into organization-level intelligence relationships.
 
 Each new source improves coverage, each public report creates distribution, and each active reader strengthens relevance.
@@ -281,7 +301,7 @@ These extensions increase addressable customers and revenue per relationship whi
 The complete product experience is in place. Public production launch depends on three essential operating steps:
 
 1. **Public service presence** — establish the branded domain, clear support ownership, and published service commitments.
-2. **Commercial and rights operations** — finalize customer terms, privacy disclosures, publisher licensing procedures, and accountable review ownership.
+2. **Commercial and rights operations** — finalize customer terms, privacy and consent disclosures, publisher licensing procedures, advertiser acceptance standards, and accountable review ownership.
 3. **Customer operations** — activate pricing, onboarding, billing, support, and launch measurement for professional and organization customers.
 
 These are launch and operating requirements, not missing core product experiences.
@@ -336,6 +356,7 @@ Conversations are welcome around:
 - Product or intellectual-property acquisition.
 - Distribution and data partnerships.
 - Enterprise adoption and commercial pilots.
+- Premium sponsorship and responsible advertising partnerships.
 - Product demonstrations and due diligence.
 
 ---
